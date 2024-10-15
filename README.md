@@ -17,7 +17,7 @@
 
 # Use
 
-> you can install this on a vps or github codespace
+> you can install this on a vps or github codespace.
 > please note if your vps does not a ipv4 you will need to tunnel it with a tunnel service like cloudflare tunnel
 
 ```
