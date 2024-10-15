@@ -20,6 +20,7 @@
 > you can install this on a vps or github codespace.
 > please note if your vps does not a ipv4 you will need to tunnel it with a tunnel service like cloudflare tunnel
 
+**With docker**
 ```
 curl -O https://raw.githubusercontent.com/play452/DesktopOnCodespaces/refs/heads/main/install.sh
 chmod +x install.sh
