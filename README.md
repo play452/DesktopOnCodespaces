@@ -22,14 +22,16 @@
 
 **With docker**
 ```
-curl -O https://raw.githubusercontent.com/play452/DesktopOnCodespaces/refs/heads/main/install-docker.sh
+git clone https://github.com/play452/DesktopOnCodespaces
+cd DesktopOnCodespaces
 chmod +x install-docker.sh
 ./install-docker.sh
 ```
 
 **With podman**
 ```
-curl -O https://raw.githubusercontent.com/play452/DesktopOnCodespaces/refs/heads/main/install-podman.sh
+git clone https://github.com/play452/DesktopOnCodespaces
+cd DesktopOnCodespaces
 chmod +x install-podman.sh
 ./install-podman.sh
 ```
