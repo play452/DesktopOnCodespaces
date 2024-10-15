@@ -26,3 +26,6 @@ curl -O https://raw.githubusercontent.com/play452/DesktopOnCodespaces/refs/heads
 chmod +x install-docker.sh
 ./install-docker.sh
 ```
+
+# changes
+- fixed discord installation and also allowed docker access
