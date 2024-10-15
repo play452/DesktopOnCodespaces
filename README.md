@@ -22,7 +22,7 @@
 
 **With docker**
 ```
-curl -O https://raw.githubusercontent.com/play452/DesktopOnCodespaces/refs/heads/main/install.sh
+curl -O https://raw.githubusercontent.com/play452/DesktopOnCodespaces/refs/heads/main/install-docker.sh
 chmod +x install.sh
 ./install.sh
 ```
