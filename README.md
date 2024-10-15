@@ -27,5 +27,12 @@ chmod +x install-docker.sh
 ./install-docker.sh
 ```
 
+**With podman**
+```
+curl -O https://raw.githubusercontent.com/play452/DesktopOnCodespaces/refs/heads/main/install-podman.sh
+chmod +x install-podman.sh
+./install-podman.sh
+```
+
 # changes
 - fixed discord installation and also allowed docker access
