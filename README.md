@@ -28,7 +28,7 @@ chmod +x install-docker.sh
 ./install-docker.sh
 ```
 
-**With podman**
+**With podman (podman installer is broken)**
 ```
 git clone https://github.com/play452/DesktopOnCodespaces
 cd DesktopOnCodespaces
