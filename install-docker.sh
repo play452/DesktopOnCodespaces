@@ -1,3 +1,5 @@
+echo "I did not create this. this is just a continueation of the DesktopOnCodespaces mollomm1 thanks to him for creating this. -------> installation continuing in 10 seconds"
+sleep 10
 apt install docker.io podman sudo python3 pip python-is-python3 -y
 pip install textual
 sleep 2
