@@ -1,7 +1,7 @@
 pip install textual
 sleep 2
 python3 installer.py
-docker build -t desktoponcodespaces . --no-cache
+podman build -t desktoponcodespaces . --no-cache
 cd ..
 
 sudo apt update
