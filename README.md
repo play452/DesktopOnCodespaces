@@ -28,7 +28,7 @@ chmod +x install-docker.sh
 ./install-docker.sh
 ```
 
-**With podman (podman installer is broken)**
+**With podman**
 ```
 git clone https://github.com/play452/DesktopOnCodespaces
 cd DesktopOnCodespaces
@@ -43,4 +43,4 @@ chmod +x install-podman.sh
 
 - Added podman support
 
-- Fixed discord installation and also allowed docker access
+- Fixed discord installation and also allowed docker access in the container
