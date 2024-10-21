@@ -37,6 +37,8 @@ chmod +x install-podman.sh
 ```
 
 # Changes
+- Fixed podman support
+
 - Added podman support
 
 - Fixed discord installation and also allowed docker access
