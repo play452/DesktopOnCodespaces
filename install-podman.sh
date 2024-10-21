@@ -1,4 +1,4 @@
-apt install sudo podman docker.io -y
+apt install sudo podman docker.io python3 pip python-is-python3 -y
 pip install textual
 sleep 2
 python3 installer.py
