@@ -37,6 +37,8 @@ chmod +x install-podman.sh
 ```
 
 # Changes
+- Podman in container support
+
 - Fixed podman support
 
 - Added podman support
