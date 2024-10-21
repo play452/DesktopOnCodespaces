@@ -22,21 +22,23 @@
 
 **With docker**
 ```
-git clone https://github.com/play452/DesktopOnCodespaces
-cd DesktopOnCodespaces
+git clone https://github.com/play452/DesktopOnCodespaces-Continued
+cd DesktopOnCodespaces-Continued
 chmod +x install-docker.sh
 ./install-docker.sh
 ```
 
 **With podman**
 ```
-git clone https://github.com/play452/DesktopOnCodespaces
-cd DesktopOnCodespaces
+git clone https://github.com/play452/DesktopOnCodespaces-Continued
+cd DesktopOnCodespaces-Continued
 chmod +x install-podman.sh
 ./install-podman.sh
 ```
 
 # Changes
+- Added python
+
 - Podman in container support
 
 - Fixed podman support
