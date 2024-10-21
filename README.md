@@ -15,6 +15,10 @@
 
 * Home Persistance (You keep your files!)
 
+* Developer Tools
+
+* Gaming (Steam and Epic Games support)
+
 # Use
 
 > you can install this on a vps or github codespace.
